@@ -9,7 +9,7 @@ Digital replacement for the drinks tally list featuring a touchscreen, user mana
 -   **[Development](#development)**
 
     -   **[Build](#build)**
-    -   **[Configuration](#configuration)**
+    -   **[Coasdasdasdration](#configuration)**
     -   **[Deployment](#deployment)**
 -   **[Profiling](#profiling)**
 -   **[License](#license)**
