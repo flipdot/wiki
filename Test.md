@@ -15,7 +15,7 @@ Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchsc
 
 ## Development
 
-This project is deployed within the [drinks-touch_stack](https://github.com/flipdot/drinks-touch_stack/) in accordance to the [DargStack template](https://github.com/Dargmuesli/dargstack-template/) to make deployment a breeze.
+This project is deployed withiasdasdasdasdn the [drinks-touch_stack](https://github.com/flipdot/drinks-touch_stack/) in accordance to the [DargStack template](https://github.com/Dargmuesli/dargstack-template/) to make deployment a breeze.
 
 The provided `Dockerfile` lets you build a localized Python image. Build it with the following command:
 
