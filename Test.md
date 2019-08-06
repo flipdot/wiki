@@ -6,12 +6,12 @@ Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchsc
 
 ## Table of Contents
 
--   **[Development](#development)**
+-   **[Developmen](#development)****[](#build)**
 
-    -   **[Build](#build)**
-    -   **[Coasdasdasdration](#configuration)**
-    -   **[Deployment](#deployment)**
--   **[Profiling](#profiling)**
+    -   **[Buil](#build)****[](#configuration)**
+    -   **[Coasdasdasdratio](#configuration)****[](#deployment)**
+-   **[Deploymen](#deployment)****[](#profiling)**
+-   **[Profilin](#profiling)****[](#license)**
 -   **[License](#license)**
 
 ## Development
