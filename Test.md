@@ -2,7 +2,7 @@
 
 # Drinks Touch 4
 
-Digital replacement for the drinks tally list featuring a touchscreen, user management and a barcode scanner.
+Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchscreen, user management and a barcode scanner.
 
 ## Table of Contents
 
