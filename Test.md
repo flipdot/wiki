@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/flipdot/drinks-touch.svg?branch=master)](https://travis-ci.org/flipdot/drinks-touch)
 
-# Drinks Touch
+# Drinks Touch 2
 
 Digital replacement for the drinks tally list featuring a touchscreen, user management and a barcode scanner.
 
