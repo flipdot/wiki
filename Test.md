@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/flipdot/drinks-touch.svg?branch=master)](https://travis-ci.org/flipdot/drinks-touch)
 
-# Drinks Touch
+# Hello
 
 Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchscreen, user management and a barcode scanner.
 
