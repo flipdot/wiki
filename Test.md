@@ -4,7 +4,7 @@
 
 Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchscreen, user management and a barcode scanner.
 
-## Table of Contents
+## Table of Content
 
 -   asdasd
 
