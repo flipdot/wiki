@@ -4,6 +4,8 @@
 
 Digital replacement for the drinks talsadklaksdkasldlly list featuring a touchscreen, user management and a barcode scanner.
 
+![](https://flipdot.org/wikistatic/common/flipdot.png)
+
 ## Table of Content
 
 -   asdasd
